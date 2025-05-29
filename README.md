@@ -1940,6 +1940,7 @@
   { "en": "Ikonoklasme?", "id": "Penghancuran berhala." }
 
 
+
         ];
 
         let questions = [];
