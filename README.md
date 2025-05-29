@@ -1,0 +1,1 @@
+# Sinonim-F-I-1500-kata
