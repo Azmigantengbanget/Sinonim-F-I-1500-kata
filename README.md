@@ -315,7 +315,7 @@
   { "en": "Gadung?", "id": "Ubi." },
   { "en": "Gae?", "id": "Kerja (Jawa)." },
   { "en": "Gael?", "id": "Senggol." },
-  { "en": "Gaet?", "id": "Kait." }
+  { "en": "Gaet?", "id": "Kait." },
   { "en": "Gafar?", "id": "Pengampun (Arab)." },
   { "en": "Gaflet?", "id": "Tombak (arkais)." },
   { "en": "Gaflah?", "id": "Lalai (Arab)." },
